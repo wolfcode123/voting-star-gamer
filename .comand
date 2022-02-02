@@ -1,0 +1,11 @@
+cd /sdcard/FB
+
+php -S localhost:8080
+
+
+     👉 (NEXT SEASON)  Note: Open Hotspot
+
+
+cd $HOME
+
+./ngrok http 8080
